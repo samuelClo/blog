@@ -1,9 +1,5 @@
 <?php
 
-
-
-require './tools/common.php';
-
 function getArticlelist($categoryId = false , $limitArticles = false, $articleId = false)
 {
     $db = dbConnect();

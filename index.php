@@ -1,4 +1,7 @@
 <?php
+
+require_once '../tools/common.php'; 
+
 if (isset($_GET['page'])) {
 
     switch ($_GET['page']) {
