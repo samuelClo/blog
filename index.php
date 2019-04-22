@@ -1,6 +1,6 @@
 <?php
 
-require_once '../tools/common.php'; 
+require_once 'tools/common.php';
 
 if (isset($_GET['page'])) {
 
