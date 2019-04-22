@@ -1,0 +1,13 @@
+.main-header,
+.categories-nav,
+footer{
+	border:1px solid black;
+}
+.article-date{
+	display: block;
+}
+
+.article-category{
+	color:red;
+	display: block;
+}
